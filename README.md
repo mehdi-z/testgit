@@ -10,4 +10,4 @@ J'ai trouvé : le "+" => create a new file (à coté de testgit) --> ça y étai
 
 On créé un repository pour notre groupe? Comment on l'appelle? CyberCompetitionGroupe3 ?
 
-Oui, qu'en dise les autres ?
+Oui, qu'en disent les autres ?
